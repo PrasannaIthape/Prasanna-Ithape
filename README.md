@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasanna Ithape</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<!-- <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
- -->
+ <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
+ 
 - 📫 How to reach me **prasannaithape7757@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
